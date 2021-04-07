@@ -1,0 +1,9 @@
+/worldborder center x y z
+
+/worlborder set [blocks] [time]
+
+/worldborder add [blocks] [time]
+
+/worldborder warning distance [blocks]
+
+/worldborder set 30mil <--- to remove a already made worldborder
