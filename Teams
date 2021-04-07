@@ -7,3 +7,6 @@
 /team modify [Name] suffix {"text":" [Name] ","color":"red"} <--- Tag + Farbe des Tags
 
 /tp @a[team=[Name] ] 10 70 3 <--- x y z
+
+
+Quelle: https://youtu.be/SztFQEE7TwU
