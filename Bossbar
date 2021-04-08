@@ -1,0 +1,11 @@
+/bossbar add id {"text":"Name"} <--- id muss  kleingeschrieben sein 
+
+/bossbar set minecraft:arthur players @a[team=Name] <---  visible for these players 
+
+/bossbar set minecraft:Name visible true
+ 
+/bossbar set minecraft:Name color red
+
+/bossbar set minecraft:Name name {"text":"Name","color":"red","bold":"true"}
+
+
